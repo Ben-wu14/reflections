@@ -1,0 +1,2 @@
+How can you use the staging area to make sure you have one commit per logical change?
+	Use command git diff --staged to compare your current staging area with the most resent commit.And use git diff to compare your working directory and staging area.
